@@ -21,8 +21,7 @@ This project modifies the standard Laravel project in the following ways:
 - bootstrap/compiled.php regenerated
 
 Again, thanks and credit to Gilles for doing the hard work.
-Nathan
-nwoodhouse
+NW
 
 
 ## Using This Repo
@@ -35,8 +34,7 @@ nwoodhouse
 
 * You should be ready to push changes up to google 
 
-Nathan
-nwoodhouse
+NW
 
 The standard Laravel readme.md follows
 
